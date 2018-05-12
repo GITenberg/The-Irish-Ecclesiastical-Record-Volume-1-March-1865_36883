@@ -1,0 +1,21 @@
+_repo: The-Irish-Ecclesiastical-Record-Volume-1-March-1865_36883
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: The Irish Ecclesiastical Record
+gutenberg_issued: '2011-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Ireland -- Periodicals'
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Periodicals'
+title: The Irish Ecclesiastical Record, Volume 1, March 1865
+url: http://www.gutenberg.org/ebooks/36883
